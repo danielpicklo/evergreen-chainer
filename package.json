@@ -10,7 +10,7 @@
     "description": "",
     "dependencies": {
       "@google-cloud/firestore": "^6.0.0",
-      "@google-cloud/run": "^3.0.0"
+      "@google-cloud/run": "^2.0.0"
     }
   }
   
